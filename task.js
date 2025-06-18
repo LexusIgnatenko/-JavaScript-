@@ -15,4 +15,4 @@ const countdownInterval = setInterval(function () {
         clearInterval(countdownInterval); // Останавливаем таймер
         alert('Вы победили в конкурсе!');
     }
-}, 100); // Интервал срабатывания — раз в секунду
+}, 100); // Интервал срабатывания
